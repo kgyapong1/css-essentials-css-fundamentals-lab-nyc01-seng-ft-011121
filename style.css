@@ -19,3 +19,8 @@ figcaption {
   font-size: 10px;
 }
 
+nav a {
+  background-color: #00D1D1;
+  padding-left: 10px;
+  padding-right: 10px;
+}
