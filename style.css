@@ -24,5 +24,14 @@ nav a {
   padding-left: 10px;
   padding-right: 10px;
 }
+#details {
+  margin-top: 20px;
+}
 
+#details div{
+  display: block; 
+  float: left;
+  background-color: #FF796E;
+  width: 25%;
+  text-align: center;
 
